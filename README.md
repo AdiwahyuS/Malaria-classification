@@ -1,4 +1,4 @@
 # Malaria-classification
-nek analisis jalanke crossvald;
-nek gui cukup buka GUII.fig;
-tengkyu rak.
+1. analisis run crossvald.m;
+2. gui run GUII.fig;
+--tengkyu rak.
